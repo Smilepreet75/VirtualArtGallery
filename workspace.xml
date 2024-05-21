@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4411062b-4382-4a14-8d41-c5dba3a7e6d3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2fRYCpfz96SzTEwalwm6xqMIhKK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASUS/Downloads/virtualArtGallery/frontend/src/layouts&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2023.3.5\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Downloads\virtualArtGallery\frontend\src\layouts" />
+      <recent name="C:\Users\ASUS\Downloads\virtualArtGallery\frontend\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Downloads\virtualArtGallery\frontend\src\pages\user" />
+      <recent name="C:\Users\ASUS\Downloads\virtualArtGallery\frontend" />
+      <recent name="C:\Users\ASUS\Downloads\virtualArtGallery\frontend\src" />
+      <recent name="C:\Users\ASUS\Downloads\virtualArtGallery\frontend\src\pages" />
+      <recent name="C:\Users\ASUS\Downloads\virtualArtGallery\frontend\src\pages\admin" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4411062b-4382-4a14-8d41-c5dba3a7e6d3" name="Changes" comment="" />
+      <created>1713765237329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713765237329</updated>
+      <workItem from="1713765239185" duration="10668000" />
+      <workItem from="1713800028285" duration="1388000" />
+      <workItem from="1713848311130" duration="12380000" />
+      <workItem from="1713873427589" duration="13634000" />
+      <workItem from="1713934544443" duration="10778000" />
+      <workItem from="1713972838505" duration="274000" />
+      <workItem from="1714021267110" duration="23000" />
+      <workItem from="1714106944863" duration="18000" />
+      <workItem from="1714224259555" duration="53000" />
+      <workItem from="1714224691890" duration="17000" />
+      <workItem from="1714224745051" duration="483000" />
+      <workItem from="1714225263347" duration="735000" />
+      <workItem from="1714231450879" duration="689000" />
+      <workItem from="1714281882437" duration="16160000" />
+      <workItem from="1714366642924" duration="10213000" />
+      <workItem from="1714452767654" duration="6912000" />
+      <workItem from="1714499078722" duration="4282000" />
+      <workItem from="1714540297978" duration="9023000" />
+      <workItem from="1714582904885" duration="3894000" />
+      <workItem from="1714625350282" duration="3369000" />
+      <workItem from="1715345255160" duration="7000" />
+      <workItem from="1715345389965" duration="1196000" />
+      <workItem from="1715575675194" duration="4273000" />
+      <workItem from="1715752931016" duration="25253000" />
+      <workItem from="1715834471763" duration="11253000" />
+      <workItem from="1715856762278" duration="11074000" />
+      <workItem from="1715922980709" duration="2214000" />
+      <workItem from="1716008208668" duration="7443000" />
+      <workItem from="1716023415024" duration="8875000" />
+      <workItem from="1716188690233" duration="4557000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
